@@ -6,10 +6,15 @@
 //  Copyright © 2018年 たけにい. All rights reserved.
 //
 
+//あぁ^〜心がぴょんぴょんするんじゃ^〜
+//あぁ^〜心がぽいぽいするんじゃ^〜
+
+
 import UIKit
 
 class ViewController: UIViewController {
 
+    
     var flag = 0
     
     @IBAction func FirstGrade(){
