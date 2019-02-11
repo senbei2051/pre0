@@ -4,7 +4,7 @@
 //
 //  Created by たけにい on 2018/12/22.
 //  Copyright © 2018年 たけにい. All rights reserved.
-//
+//あーーーーーー水素の音ぉーーーーーーーーー
 
 import UIKit
 
